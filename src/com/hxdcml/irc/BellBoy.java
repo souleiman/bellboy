@@ -22,7 +22,7 @@ public class BellBoy {
 
     public BellBoy(Map<String, String> config) throws IOException, IrcException {
 
-        // String log4jConfPath = "/path/to/log4j.properties";
+        // String log4jConfPath = "log4j.properties";
         // PropertyConfigurator.configure(log4jConfPath);
 
         Configuration<PircBotX> configuration = new Configuration.Builder<>()
