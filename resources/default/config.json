@@ -1,0 +1,6 @@
+{
+  "address": "<host>",
+  "port": "<port>",
+  "password": "<password>",
+  "message": "<message>"
+}
